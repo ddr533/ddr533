@@ -3,7 +3,7 @@
 
 ### Hi there 👋, my name is Andrey
 - Python developer
-- Interested in Django, Sklearn, Aiogram, Selenium
+- Interested in Django, REST
 
 
 ##
